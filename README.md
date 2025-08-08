@@ -46,19 +46,6 @@ I specialize in designing and developing scalable, high-performance applications
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Preview | Description | Tech Stack |
-|---------|---------|-------------|------------|
-| [**BattleShip JS Game**](https://github.com/tishantha/BattleShip) | ![BattleShip Preview](https://via.placeholder.com/300x200.png?text=BattleShip+Preview) | A fun, interactive Battleship game built in JavaScript. | JavaScript, HTML5, CSS3 |
-| [**DotNetCore API Token Auth**](https://github.com/tishantha/DotNetCoreAPITokenAuth) | ![API Auth Preview](https://via.placeholder.com/300x200.png?text=API+Token+Auth+Preview) | Secure API authentication using JWT in .NET Core. | C#, .NET Core, SQL Server |
-| [**Clean Architecture Template**](https://github.com/tishantha/CleanArchitecture) | ![Clean Architecture Preview](https://via.placeholder.com/300x200.png?text=Clean+Architecture+Preview) | A boilerplate for building scalable apps following Clean Architecture principles. | C#, .NET Core, EF Core |
-
-> Replace `https://via.placeholder.com/...` with your actual image or GIF URLs.  
-> To get an image URL: upload the screenshot to your repo’s `/assets` folder or an issue comment, then right-click → **Copy image address**.
-
----
-
 ## 📊 GitHub Stats
 
 ![Tishantha's GitHub stats](https://github-readme-stats.vercel.app/api?username=tishantha&show_icons=true&theme=radical)  
