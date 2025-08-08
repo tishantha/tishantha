@@ -7,8 +7,7 @@ I specialize in designing and developing scalable, high-performance applications
 ---
 
 ## 🌟 About Me
-
-- 🔭 Currently working at **VitalHub Innovation Lab** – delivering innovative healthcare solutions.  
+  
 - 💡 13+ years of experience in **C#.NET, ASP.NET Core, SQL Server, Angular, and enterprise systems**.  
 - 🚀 Strong expertise in **Banking, Finance, and ERP domains**.  
 - 🧠 Always learning about **cloud computing, software architecture, and emerging tech**.  
